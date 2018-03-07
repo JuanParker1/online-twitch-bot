@@ -1,0 +1,29 @@
+{
+  "name": "template",
+  "description": "template bower",
+  "main": "server.js",
+  "authors": [
+    "template"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "element-kit": "~1.0.5",
+    "cloudinary": "~1.0.25",
+    "filesaver": "*",
+    "firebase": "~2.3.2",
+    "isotope": "~2.2.2",
+    "jspdf": "~1.2.61",
+    "react-bootstrap": "~0.28.1",
+    "seiyria-bootstrap-slider": "~7.0.3",
+    "underscore": "~1.8.3"
+  }
+}
